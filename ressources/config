@@ -1,0 +1,5 @@
+filetransfertport=9999 		
+netdetectorport=9999 		
+netdetectortimeout=3000 	
+netdetectorperiod=1000  	
+filetransferttimeout=60000 	
